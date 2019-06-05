@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class UserController {
         @RequestMapping("user")
     public void nnn(){
-            System.out.println("sssss");
+            System.out.println("sssss！！！");
     }
 }
