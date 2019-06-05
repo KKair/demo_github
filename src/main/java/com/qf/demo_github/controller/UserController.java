@@ -9,5 +9,6 @@ public class UserController {
         @RequestMapping("user")
     public void nnn(){
             System.out.println("sssss！！！");
+            System.out.println("xxxxxx");
     }
 }
